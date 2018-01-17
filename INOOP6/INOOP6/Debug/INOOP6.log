@@ -1,0 +1,6 @@
+﻿  INOOP6.cpp
+c:\users\dirkk\onedrive\documenten\hku\1718\inoop\inoop6\inoop6\inoop6.cpp(12): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dirkk\onedrive\documenten\hku\1718\inoop\inoop6\inoop6\inoop6.cpp(21): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dirkk\onedrive\documenten\hku\1718\inoop\inoop6\inoop6\inoop6.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\dirkk\onedrive\documenten\hku\1718\inoop\inoop6\inoop6\inoop6.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  INOOP6.vcxproj -> C:\Users\dirkk\OneDrive\Documenten\HKU\1718\INOOP\INOOP6\Debug\INOOP6.exe
