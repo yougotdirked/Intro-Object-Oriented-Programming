@@ -1,2 +1,8 @@
-﻿  INOOP5.cpp
+﻿  Library.cpp
+c:\users\dirkk\onedrive\documenten\hku\1718\inoop\inoop5\inoop5\library.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\dirkk\onedrive\documenten\hku\1718\inoop\inoop5\inoop5\library.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\dirkk\onedrive\documenten\hku\1718\inoop\inoop5\inoop5\library.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  INOOP5.cpp
+  Book.cpp
+  Generating Code...
   INOOP5.vcxproj -> C:\Users\dirkk\OneDrive\Documenten\HKU\1718\INOOP\INOOP5\Debug\INOOP5.exe

@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "Book.h"
 
 Book::Book(string t)
 {

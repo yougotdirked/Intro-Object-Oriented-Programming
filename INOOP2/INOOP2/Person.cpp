@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "Person.h"
 
 string Person::getName()
 {

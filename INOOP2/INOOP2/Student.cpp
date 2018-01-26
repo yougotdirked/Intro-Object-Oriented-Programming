@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "Student.h"
 
 Student::Student(string n, int a)
 {

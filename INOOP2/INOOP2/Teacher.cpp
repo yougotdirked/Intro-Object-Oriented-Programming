@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "Teacher.h"
 
 Teacher::Teacher(string n, int a)
 {
